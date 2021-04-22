@@ -1,0 +1,37 @@
+#writeText {
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#typeText {
+  height: 50px;
+  width: 100px;
+}
+
+button {
+  height: 70px;
+  width: 70px;
+}
+
+#buttons {
+  align-items: center;
+  justify-content: center;
+}
+
+#figure {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn-space {
+  margin: 5px;
+}
+
+#lettersOfWord {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
